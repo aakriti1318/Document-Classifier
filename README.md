@@ -21,3 +21,6 @@ Document Classifier helps to classify the document even if the name of the .pdf 
 <li>Using that data it can calculate the probability of each word belonging to every category. </li>
 <li>When a new document needs to be categorized it calculates the probability of that document belonging to each category by combining the probability of each word in it and then choosing the category with the highest probability.</li></li></ul>
 <li>Testing - Precision and Recall</li></ul>
+<p>
+Made with ♥
+ 
